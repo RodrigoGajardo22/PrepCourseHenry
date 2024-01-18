@@ -1,0 +1,39 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 0;
+  }
+  main {
+    margin-bottom: 0;
+}
+
+html{
+    margin: 0;
+}
+
+  footer {
+    background-color: rgb(191, 190, 190);
+    color: black;
+    font-size: 30px;
+    margin: 1%; 
+    position: fixed; bottom:0; width: 100%
+}
+
+
+  img {
+    border: 2px solid #333; 
+    max-width: 100%; 
+    height: auto; 
+    padding: 10px;
+}
+
+.clase-imagenes {
+    display: flex;
+    justify-content: space-around; 
+    width: 70%;
+    margin: auto; 
+}
+.clase-imagenes img {
+    width: 100%; 
+}
